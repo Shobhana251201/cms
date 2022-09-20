@@ -1,0 +1,6 @@
+#ton{
+    border: 1px solid black;
+}
+#ton:hover{
+    background-color: rgba(0, 0, 255, 0.61);  
+}
